@@ -1,2 +1,2 @@
 # automata
-Práctica 3 de Teoría Computacional
+Práctica 3: Autómata finito determinista
